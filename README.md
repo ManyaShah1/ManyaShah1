@@ -1,7 +1,7 @@
-## Hi there 👋
 
-<!--
-**ManyaShah1/ManyaShah1** is# Hi there 👋, I'm Manya Shah
+
+
+ Hi there 👋, I'm Manya Shah
 
 🎓 Information Technology Student at Don Bosco Institute of Technology (DBIT), Mumbai  
 🤖 Honours in Artificial Intelligence & Machine Learning  
@@ -152,4 +152,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
