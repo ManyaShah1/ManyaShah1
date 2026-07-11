@@ -1,152 +1,203 @@
-<h1 align="center">Hi 👋, I'm Manya Shah</h1>
-<h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🌟 Open Source Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Learner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:E0BBE4,100:AEC6CF&height=220&section=header&text=Hi,%20I'm%20Manya%20✨&fontSize=44&fontColor=5C4B6F&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Dev%20•%20AI/ML%20Enthusiast%20•%20Building%20the%20Future%20💫&descAlignY=54&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B497D6&center=true&vCenter=true&width=650&lines=IT+Student+%40+DBIT%2C+Mumbai+%F0%9F%8C%B8;Honours+in+AI+%26+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Vice+Chairperson%2C+ACM+DBIT+%F0%9F%8E%80;Open+Source+Enthusiast+%F0%9F%8C%B7"/>
 
-## 🚀 About Me
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
 
-🎓 Information Technology Student at **Don Bosco Institute of Technology (DBIT), Mumbai**
+</div>
 
-🤖 Honours in **Artificial Intelligence & Machine Learning**
+<br>
 
-💼 **Vice Chairperson, ACM DBIT**
+<table align="center" width="90%">
+<tr><td>
 
-🌱 Currently learning **Machine Learning, Cloud Computing, DevOps, and Open Source Development**
+```
+🔴  🟡  🟢   manya@dbit-portfolio ── zsh ── 80×24
+```
 
-⚡ Passionate about building impactful software, solving real-world problems, and contributing to developer communities.
+</td></tr>
+<tr><td>
 
----
+```bash
+➜  ~ whoami
+Manya Shah
 
-## 🌐 Connect With Me
+➜  ~ cat about.txt
+🎓 IT Student @ Don Bosco Institute of Technology (DBIT), Mumbai
+🤖 Honours in Artificial Intelligence & Machine Learning
+💼 Vice Chairperson, ACM DBIT
+🌱 Currently learning: Machine Learning · Cloud Computing · DevOps · Open Source
+⚡ Passionate about building impactful software & solving real-world problems
 
-<p align="left">
-<a href="https://www.linkedin.com/in/manya-s-b75b20375/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+➜  ~ echo $CURRENT_STATUS
+"Building • Learning • Contributing 🌸"
+
+➜  ~ _
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🌷 Let's Connect
+
+<a href="https://www.linkedin.com/in/manya-s-b75b20375/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-E0BBE4?style=for-the-badge&logo=linkedin&logoColor=5C4B6F"/>
 </a>
-
 <a href="mailto:manya1105s@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=5C4B6F"/>
+</a>
+<a href="https://github.com/ManyaShah1" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-AEC6CF?style=for-the-badge&logo=github&logoColor=5C4B6F"/>
 </a>
 
-<a href="https://github.com/ManyaShah1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+</div>
 
----
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
 
-# 🚀 Tech Stack
+<div align="center">
 
-## 💻 Languages
+## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/🌸_Languages-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
----
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=5C4B6F)
+![Python](https://img.shields.io/badge/Python-A2D2FF?style=for-the-badge&logo=python&logoColor=2C3E70)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=5C4B6F)
+![SQL](https://img.shields.io/badge/SQL-CDEAC0?style=for-the-badge&logo=mysql&logoColor=2C3E70)
 
-## 🌐 Web Development
+<img src="https://img.shields.io/badge/🩰_Web_Development-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-A2D2FF?style=for-the-badge&logo=react&logoColor=2C3E70)
+![Node.js](https://img.shields.io/badge/Node.js-CDEAC0?style=for-the-badge&logo=node.js&logoColor=2C3E70)
+![Express.js](https://img.shields.io/badge/Express-FFD1DC?style=for-the-badge&logo=express&logoColor=5C4B6F)
+![HTML5](https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=5C4B6F)
+![CSS3](https://img.shields.io/badge/CSS-B497D6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-AEC6CF?style=for-the-badge&logo=flutter&logoColor=2C3E70)
 
----
+<img src="https://img.shields.io/badge/🔮_Machine_Learning_&_Analytics-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
-## 🤖 Machine Learning & Analytics
+![ML](https://img.shields.io/badge/Machine%20Learning-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=5C4B6F)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-CDEAC0?style=for-the-badge&logo=googleanalytics&logoColor=2C3E70)
+![Data Viz](https://img.shields.io/badge/Data%20Visualization-A2D2FF?style=for-the-badge&logo=chartdotjs&logoColor=2C3E70)
+![Power BI](https://img.shields.io/badge/PowerBI-FFF5BA?style=for-the-badge&logo=powerbi&logoColor=5C4B6F)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-E0BBE4?style=for-the-badge&logoColor=FFFFFF)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-8E44AD?style=for-the-badge)
+<img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
----
+![AWS](https://img.shields.io/badge/AWS-FFD1DC?style=for-the-badge&logo=amazonaws&logoColor=5C4B6F)
+![GCP](https://img.shields.io/badge/Google%20Cloud-A2D2FF?style=for-the-badge&logo=googlecloud&logoColor=2C3E70)
+![Docker](https://img.shields.io/badge/Docker-AEC6CF?style=for-the-badge&logo=docker&logoColor=2C3E70)
+![DevOps](https://img.shields.io/badge/DevOps-FFB6C1?style=for-the-badge&logo=azuredevops&logoColor=5C4B6F)
 
-## ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/🗂️_Database-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![DevOps](https://img.shields.io/badge/DevOps-FF5722?style=for-the-badge&logo=azuredevops&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-CDEAC0?style=for-the-badge&logo=mysql&logoColor=2C3E70)
+![MongoDB](https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=2C3E70)
 
----
+<img src="https://img.shields.io/badge/🛠️_Tools-FFF0F5?style=for-the-badge&labelColor=FFF0F5&color=E0BBE4"/>
 
-## 🗄️ Database
+![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=5C4B6F)
+![GitHub](https://img.shields.io/badge/GitHub-AEC6CF?style=for-the-badge&logo=github&logoColor=2C3E70)
+![Figma](https://img.shields.io/badge/Figma-FFD1DC?style=for-the-badge&logo=figma&logoColor=5C4B6F)
+![VS Code](https://img.shields.io/badge/VS%20Code-A2D2FF?style=for-the-badge&logo=visualstudiocode&logoColor=2C3E70)
+![Blockly](https://img.shields.io/badge/Google%20Blockly-FFF5BA?style=for-the-badge&logo=google&logoColor=5C4B6F)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+</div>
 
----
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
 
-## 🛠️ Tools
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Google Blockly](https://img.shields.io/badge/Google%20Blockly-4285F4?style=for-the-badge&logo=google)
+## 🌟 Featured Projects
 
----
+</div>
 
-# 🌟 Featured Projects
+<table align="center" width="90%">
+<tr><td>
 
-### 🎮 CodeBlocking
-Interactive block-based coding platform for kids using Google Blockly and MERN Stack.
+```
+🔴  🟡  🟢   ~/projects
+```
 
-### 🛡️ Safe Steps
-Real-time child safety tracking platform with geospatial visualization and alert system.
+</td></tr>
+<tr><td>
 
-### 📈 Binance Trading Bot
-Automated crypto trading bot with market orders, logging, and risk management.
+```bash
+➜  projects git:(main) ls -la
 
-### 🎓 Student Management System
-Java + MySQL application for managing students, attendance, and grades.
+🎮 CodeBlocking/
+   → Interactive block-based coding platform for kids
+     built with Google Blockly + MERN Stack
 
----
+🛡️  SafeSteps/
+   → Real-time child safety tracking platform with
+     geospatial visualization & alert system
 
-# 🏆 Leadership
+📈 BinanceTradingBot/
+   → Automated crypto trading bot with market orders,
+     logging, and risk management
+
+🎓 StudentManagementSystem/
+   → Java + MySQL app for managing students,
+     attendance & grades
+
+➜  projects git:(main) _
+```
+
+</td></tr>
+</table>
+
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
+
+<div align="center">
+
+## 🎀 Leadership
 
 👨‍💼 **Vice Chairperson — ACM DBIT**
-
-🎯 Leading technical initiatives, workshops, mentorship programs, and community activities.
+Leading technical initiatives, workshops, mentorship programs & community activities
 
 🤝 Former Sponsorship Head, E-Cell DBIT
-
 🎨 Former Assistant Design Head, ACM DBIT
 
----
+</div>
 
-# 📊 GitHub Analytics
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManyaShah1&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaShah1&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManyaShah1&theme=tokyonight"/>
-</p>
+## 📊 GitHub Analytics
 
----
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ManyaShah1&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=B497D6&icon_color=FFB6C1&text_color=5C4B6F&ring_color=E0BBE4"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaShah1&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=B497D6&text_color=5C4B6F&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManyaShah1&hide_border=true&background=FFF0F5&stroke=FFB6C1&ring=B497D6&fire=FFB6C1&currStreakLabel=B497D6&sideLabels=5C4B6F&currStreakNum=5C4B6F&sideNums=5C4B6F&dates=B497D6"/>
+
+</div>
+
+⋆｡°✩ ┄──── · · · ── 🩰 ── · · · ────｡°✩⋆
+
+<div align="center">
 
 ## 🌱 Current Focus
 
-🔹 Machine Learning  
-🔹 Data Analytics & Visualization  
-🔹 Cloud Computing  
-🔹 DevOps & CI/CD  
-🔹 Full Stack Development  
-🔹 Open Source Contributions
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB6C1?style=for-the-badge&logoColor=5C4B6F"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-A2D2FF?style=for-the-badge&logoColor=2C3E70"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-CDEAC0?style=for-the-badge&logoColor=2C3E70"/>
+<br>
+<img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-FFD1DC?style=for-the-badge&logoColor=5C4B6F"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Dev-E0BBE4?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Open%20Source-AEC6CF?style=for-the-badge&logoColor=2C3E70"/>
 
----
+<br><br>
 
-<h3 align="center">⭐ Building • Learning • Contributing ⭐</h3>
+### ⭐ Building • Learning • Contributing ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC6CF,50:E0BBE4,100:FFD1DC&height=120&section=footer" width="100%"/>
+
+</div>
