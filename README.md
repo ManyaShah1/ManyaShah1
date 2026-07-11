@@ -12,7 +12,7 @@
 <tr><td>
 
 ```
-●  ●  ●   www.about.me
+🔴  🟡  🟢   www.about.me
 ```
 
 </td></tr>
@@ -43,7 +43,7 @@ EMAIL       manya1105s@gmail.com
 <tr><td>
 
 ```
-●  ●  ●   ~/skills
+🔴  🟡  🟢   ~/skills
 ```
 
 </td></tr>
@@ -101,7 +101,7 @@ EMAIL       manya1105s@gmail.com
 <tr><td>
 
 ```
-●  ●  ●   ~/projects
+🔴  🟡  🟢   ~/projects
 ```
 
 </td></tr>
